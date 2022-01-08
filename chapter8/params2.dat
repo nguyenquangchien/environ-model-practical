@@ -1,0 +1,10 @@
+pop1            10
+pop2            20
+carry1          1000
+carry2          750
+alpha           0.5
+beta            0.8
+growth1         0.5
+growth2         0.75
+stop_time       100
+delta_t         0.1
